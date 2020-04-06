@@ -1,0 +1,6 @@
+# OS stuff
+._*
+.DS_Store
+
+# Dependancies
+node_modules
